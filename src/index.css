@@ -9,6 +9,11 @@ main {
 background-image: url("https://www.transparenttextures.com/patterns/escheresque-dark.png");
 }
 
+.love {
+  color: rgb(121, 62, 62);
+  font-weight: bold;
+}
+
 .profile-img {
   outline: black double 15px;
   border-radius: 80px;
