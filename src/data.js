@@ -33,21 +33,14 @@ export const projects = [
 	},
 ]
 
-export const testimonials = [
-	// {
-	// 	quote:
-	// 		'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.',
-	// 	image: 'https://randomuser.me/api/portraits/men/1.jpg',
-	// 	name: 'Human 1',
-	// 	company: 'Company 1',
-	// },
-	// {
-	// 	quote:
-	// 		'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.',
-	// 	image: 'https://randomuser.me/api/portraits/men/94.jpg',
-	// 	name: 'Human 2',
-	// 	company: 'Company 2',
-	// },
+export const resume = [
+	{
+		quote:
+			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.',
+		image: 'https://i.ibb.co/GnfTjHM/Screen-Shot-2022-01-01-at-6-33-19-PM.png',
+		name: 'Human 1',
+		company: 'Company 1',
+	},
 ]
 
 export const skills = ['JavaScript', 'React', 'HTML', 'CSS', 'Node', 'Python',]
