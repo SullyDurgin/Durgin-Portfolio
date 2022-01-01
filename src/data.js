@@ -50,4 +50,4 @@ export const testimonials = [
 	// },
 ]
 
-export const skills = ['JavaScript', 'React', 'HTML', 'CSS', 'Node', ,]
+export const skills = ['JavaScript', 'React', 'HTML', 'CSS', 'Node', 'Python',]
