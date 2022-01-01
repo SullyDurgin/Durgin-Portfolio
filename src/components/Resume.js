@@ -10,19 +10,19 @@ export default function Resume() {
 			<div className='resume-box text-center'>
 				<TerminalIcon className='w-10 inline-block mb-4' />
 				<h1 className='sm:text-4xl text-3xl font-medium title-font text-white mb-4'>
-					Resume
+					Résumé
 				</h1>
 				<div className='flex m-4'>
 					{resume.map((resume) => (
-							<div className='h-full w-full bg-gray-800 bg-opacity-40 p-8 rounded '>
-								<div className='inline-flex items-center'>
-									<img
-										alt='resume'
-										src={resume.image}
-										className=' object-cover object-center'
-									/>
-								</div>
+						<div className='h-full w-full bg-gray-800 bg-opacity-40 p-8 rounded '>
+							<div className='inline-flex items-center'>
+								<img
+									alt='resume'
+									src={resume.image}
+									className=' object-cover object-center'
+								/>
 							</div>
+						</div>
 					))}
 				</div>
 			</div>
