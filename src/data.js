@@ -12,7 +12,7 @@ export const projects = [
 		subtitle: 'HTML, CSS and JavaScript',
 		description:
 			'Snake is the common name for a video game concept where the player maneuvers a line which grows in length, with the line itself being a primary obstacle.',
-		image: './project-2.png',
+		image: './project-2.gif',
 		link: 'https://sullys-snake.netlify.app/',
 	},
 	{
