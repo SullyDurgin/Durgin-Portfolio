@@ -43,4 +43,4 @@ export const resume = [
 	},
 ]
 
-export const skills = ['JavaScript', 'React', 'HTML', 'CSS', 'Node', 'Python',]
+export const skills = ['HTML', 'CSS', 'JavaScript', 'Python', 'Node.js', 'React', 'Express.js', 'jQuery', 'MongoDB', 'Mongoose', 'Django', 'SQL']
