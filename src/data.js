@@ -4,7 +4,7 @@ export const projects = [
 		subtitle: 'Express, JavaScript, MongoDB and Mongoose',
 		description:
 			'This is an app that allows the user to create, read, update & delete recipes. As a user you can also look at other people who have signed in and explore their profiles. This app also allows the user to write & read reviews.',
-		image: './project-1.png',
+		image: './project-1.gif',
 		link: 'https://hungry-humans.herokuapp.com/',
 	},
 	{

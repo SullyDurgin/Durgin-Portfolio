@@ -12,7 +12,7 @@ export default function Projects() {
 						Apps I've Built
 					</h1>
 					<p className='lg:w-2/3 mx-auto leading-relaxed text-base'>
-						A Software Engineer with a love for people, puzzles, and finding
+						I am a Software Engineer with a love for people, puzzles, and finding
 						innovative solutions. Optimistic and outgoing, aiming to make lives
 						better for people who work hard behind the scenes, as well as
 						customers, colleagues, and clients.
