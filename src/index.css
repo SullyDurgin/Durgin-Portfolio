@@ -15,7 +15,7 @@ background-image: url("https://www.transparenttextures.com/patterns/escheresque-
 }
 
 .profile-img {
-  outline: black double 15px;
+  border: black double 15px;
   border-radius: 80px;
   box-shadow: 10px 10px 5px 12px rgb(51, 51, 51);
 }
