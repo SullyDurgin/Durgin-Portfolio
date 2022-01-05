@@ -47,6 +47,13 @@ background-image: url("https://www.transparenttextures.com/patterns/escheresque-
   box-shadow: 5px 5px 5px 6px rgb(51, 51, 51);
 }
 
+.btn:active {
+    position: relative;
+    top: 5px;
+    left: 5px;
+    box-shadow: none;
+}
+
 .resume-box {
   display: flex;
   justify-content: center;
