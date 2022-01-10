@@ -11,11 +11,15 @@ export default function Projects() {
 					<h1 className='sm:text-4xl text-3xl font-medium title-font mb-4 text-white'>
 						Apps I've Built
 					</h1>
+					<h1>
+						<a className='gitlink' href='https://github.com/SullyDurgin'>Click Here to Visit My Github</a>
+					</h1>
+					<br></br>
 					<p className='lg:w-2/3 mx-auto leading-relaxed text-base'>
-						I am a Software Engineer with a love for people, puzzles, and finding
-						innovative solutions. Optimistic and outgoing, aiming to make lives
-						better for people who work hard behind the scenes, as well as
-						customers, colleagues, and clients.
+						I am a Software Engineer with a love for people, puzzles, and
+						finding innovative solutions. Optimistic and outgoing, aiming to
+						make lives better for people who work hard behind the scenes, as
+						well as customers, colleagues, and clients.
 					</p>
 				</div>
 				<div className='flex flex-wrap -m-4'>
