@@ -8,7 +8,7 @@ export default function Resume() {
 			<div className='resume-box text-center'>
 				<TerminalIcon className='w-10 inline-block mb-4' />
 				<h1 className='sm:text-4xl text-3xl font-medium title-font text-white mb-4'>
-					Résumé
+					Resumé
 				</h1>
 				<div className='resume-box flex m-4'>
 					{resume.map((resume) => (

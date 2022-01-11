@@ -20,7 +20,7 @@ export default function Navbar() {
 						Skills
 					</a>
 					<a href='#resume' className='mr-5 hover:text-white'>
-						Résumé
+						Resumé
 					</a>
 				</nav>
 				<a
